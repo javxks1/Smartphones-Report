@@ -6,7 +6,7 @@
 
 ## Overview
 
-This **Smartphones Summary Report** PowerBI Dashboard is an interactive report that gives a thorough analysis of smartphones currently available in the market. It is designed to facilitate either the consumer or the researcher with important specifications, trends by brand, and insights into the market. 
+This Smartphones PowerBI Dashboard is an interactive report that gives a thorough analysis of smartphones currently available in the market. It is designed to facilitate either the consumer or the researcher with important specifications, trends by brand, and insights into the market. 
 
 If you are interested in buying a new device, comparing specifications, or just learning about market trends, this dashboard offers all the intelligence you need for making choices.
 
@@ -36,7 +36,7 @@ If you are interested in buying a new device, comparing specifications, or just 
 
 ---
 
-## Preview
+## Previews
 
 -[Smartphones Preview](https://github.com/javxks1/Smartphones-Report/blob/main/Smartphones-Dashboard.png)
 
@@ -56,14 +56,3 @@ If you are interested in buying a new device, comparing specifications, or just 
 - Custom Visuals – For interactive filtering and visual comparison
 
 ---
-
-## Repository
-smartphones-summary-report/
-├── README.md
-├── Smartphones_Report.pbix # Power BI dashboard file
-├── data/
-│ └── smartphones_data.csv # Raw or cleaned dataset
-├── images/
-│ └── smartphones-dashboard-preview.png (optional)
-└── docs/
-└── data_dictionary.md # Optional metadata or field explanation
