@@ -12,8 +12,6 @@ If you are interested in buying a new device, comparing specifications, or just 
 
 [ **Report**](https://app.powerbi.com/view?r=eyJrIjoiODJkYjM5YjAtNzU3MC00N2ZjLWI4ZTctM2U5NTdmZjkxMGZjIiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
 
----
-
 ## Features
 
 - **Brands & Models**  
@@ -34,8 +32,6 @@ If you are interested in buying a new device, comparing specifications, or just 
 - **Extra Features**  
   Evaluate cameras, battery life, sensors, and other functionalities.
 
----
-
 ## Previews
 
 -[Smartphones Preview](https://github.com/javxks1/Smartphones-Report/blob/main/Smartphones-Dashboard.png)
@@ -46,13 +42,9 @@ If you are interested in buying a new device, comparing specifications, or just 
 
 -[Credits](https://github.com/javxks1/Smartphones-Report/blob/main/Credits-Smartphones.png)
 
----
-
 ## Tools
 
 - Power BI – Visualizations and dashboard creation  
 - Excel/CSV – Data collection and wrangling  
 - DAX – Measures and calculated columns  
 - Custom Visuals – For interactive filtering and visual comparison
-
----
