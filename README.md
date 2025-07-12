@@ -35,11 +35,8 @@ If you are interested in buying a new device, comparing specifications, or just 
 ## Previews
 
 -[Smartphones Preview](https://github.com/javxks1/Smartphones-Report/blob/main/Smartphones-Dashboard.png)
-
 -[Features Preview](https://github.com/javxks1/Smartphones-Report/blob/main/Features-Preview.png)
-
 -[Raw Data Smartphones](https://github.com/javxks1/Smartphones-Report/blob/main/Raw-Data-Smartphones.png)
-
 -[Credits](https://github.com/javxks1/Smartphones-Report/blob/main/Credits-Smartphones.png)
 
 ## Tools
